@@ -1,9 +1,14 @@
+<?php
+session_start ();
+ob_start ();
+?>
 <!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Грузоперевозки - Макаренко А.Б.</title>
-<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/comments_style.css" rel="stylesheet" type="text/css" />
+<link href="../comments/css/default.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div id="wrapper">
@@ -19,7 +24,13 @@
 		</div>
 		<!-- Content -->
 		<div id="content">
-			<p>Это содержимое</p>
+			<?php
+$cmtx_page_id = "1"; // Название или номер для страницы, по Вашему усмотрению.
+$cmtx_reference = "Page One"; // Имя страницы, например commentset.php или какое-то другое.
+$cmtx_path = "../comments/"; // Имя папки в которую установлен скрипт.
+define ( 'IN_COMMENTICS', 'true' ); // Обычно не редактируется.
+require $cmtx_path . "includes/commentics.php"; // Путь к исполнительному файлу. Обычно не редактируется.
+?>
 		</div>
 		<!-- Footer -->
 		<?php include("footer.php"); ?>
