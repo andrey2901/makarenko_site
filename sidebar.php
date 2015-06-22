@@ -1,12 +1,12 @@
 <div id="sidebar">
 	<div id="navigation">
 		<ul>
-			<li><a href="index.php">Главная</a></li>
-			<li><a href="services.php">Услуги</a></li>
-			<li><a href="prices.php">Цены</a></li>
-			<li><a href="comments.php">Отзывы</a></li>
-			<li><a href="contacts.php">Контакты</a></li>
-			<li><a href="about.php">О нас</a></li>
+			<li><a href="index.php">Р“Р»Р°РІРЅР°СЏ</a></li>
+			<li><a href="services.php">РЈСЃР»СѓРіРё</a></li>
+			<li><a href="prices.php">Р¦РµРЅС‹</a></li>
+			<li><a href="comments.php">РћС‚Р·С‹РІС‹</a></li>
+			<li><a href="contacts.php">РљРѕРЅС‚Р°РєС‚С‹</a></li>
+			<li><a href="about.php">Рћ РЅР°СЃ</a></li>
 		</ul>
 	</div>
 </div>

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Грузоперевозки - Макаренко А.Б.</title>
+<title>Р“СЂСѓР·РѕРїРµСЂРµРІРѕР·РєРё - РњР°РєР°СЂРµРЅРєРѕ Рђ.Р‘.</title>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -15,27 +15,27 @@
 		<?php include("common_title.php"); ?>
 		<!-- Content title -->
 		<div id="content_title">
-			<h3>Главная</h3>
+			<h3>Р“Р»Р°РІРЅР°СЏ</h3>
 		</div>
 		<!-- Content -->
 		<div id="content">
-			<h4>Добрый день! Необходимо перевезти тяжелый груз? Мы с радостью Вам поможем!!!</h4>
+			<h4>Р”РѕР±СЂС‹Р№ РґРµРЅСЊ! РќРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµРІРµР·С‚Рё С‚СЏР¶РµР»С‹Р№ РіСЂСѓР·? РњС‹ СЃ СЂР°РґРѕСЃС‚СЊСЋ Р’Р°Рј РїРѕРјРѕР¶РµРј!!!</h4>
 			<div class="images">
 				<div class="image">
-					<img src="images/stroy-musor.jpg" alt="Вывоз строительного мусора">
-					<h5>Вывоз строительного мусора</h5>
+					<img src="images/stroy-musor.jpg" alt="Р’С‹РІРѕР· СЃС‚СЂРѕРёС‚РµР»СЊРЅРѕРіРѕ РјСѓСЃРѕСЂР°">
+					<h5>Р’С‹РІРѕР· СЃС‚СЂРѕРёС‚РµР»СЊРЅРѕРіРѕ РјСѓСЃРѕСЂР°</h5>
 				</div>
 				<div class="image">
-					<img src="images/stroymaterialy.jpg" alt="Перевозка строительных материалов">
-					<h5>Завоз строительных материалов</h5>
+					<img src="images/stroymaterialy.jpg" alt="РџРµСЂРµРІРѕР·РєР° СЃС‚СЂРѕРёС‚РµР»СЊРЅС‹С… РјР°С‚РµСЂРёР°Р»РѕРІ">
+					<h5>Р—Р°РІРѕР· СЃС‚СЂРѕРёС‚РµР»СЊРЅС‹С… РјР°С‚РµСЂРёР°Р»РѕРІ</h5>
 				</div>
 				<div class="image">
-					<img src="images/pesok.jpg" alt="Перевозка песка, щебня, шлака">
-					<h5>Перевозка песка, щебня, шлака</h5>
+					<img src="images/pesok.jpg" alt="РџРµСЂРµРІРѕР·РєР° РїРµСЃРєР°, С‰РµР±РЅСЏ, С€Р»Р°РєР°">
+					<h5>РџРµСЂРµРІРѕР·РєР° РїРµСЃРєР°, С‰РµР±РЅСЏ, С€Р»Р°РєР°</h5>
 				</div>
 				<div class="image">
-					<img src="images/krupnogabaritniy_musor.jpg" alt="Вывоз старой мебели, хлама">
-					<h5>Завоз чернозема</h5>
+					<img src="images/krupnogabaritniy_musor.jpg" alt="Р’С‹РІРѕР· СЃС‚Р°СЂРѕР№ РјРµР±РµР»Рё, С…Р»Р°РјР°">
+					<h5>Р—Р°РІРѕР· С‡РµСЂРЅРѕР·РµРјР°</h5>
 				</div>
 			</div>
 		</div>

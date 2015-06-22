@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Грузоперевозки - Макаренко А.Б.</title>
+<title>Р“СЂСѓР·РѕРїРµСЂРµРІРѕР·РєРё - РњР°РєР°СЂРµРЅРєРѕ Рђ.Р‘.</title>
 <link href="css/contacts_style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -15,19 +15,19 @@
 		<?php include("common_title.php"); ?>
 		<!-- Content title -->
 		<div id="content_title">
-			<h3>Контакты</h3>
+			<h3>РљРѕРЅС‚Р°РєС‚С‹</h3>
 		</div>
 		<!-- Content -->
 		<div id="content">
 			<div class="contacts">
-				<p>Связаться с нами Вы можете по телефонам:</p>
+				<p>РЎРІСЏР·Р°С‚СЊСЃСЏ СЃ РЅР°РјРё Р’С‹ РјРѕР¶РµС‚Рµ РїРѕ С‚РµР»РµС„РѕРЅР°Рј:</p>
 				<ul>
 					<li>+38(068) 555-55-55</li>
 					<li>+38(068) 555-55-55</li>
 				</ul>
 				<p>
-					Или же отправить письмо на e-mail <a href="mailto:e-mail: someone@test.net">someone@test.net</a><br>со всеми
-					вопросами. Мы Вам обязательно ответим.
+					РР»Рё Р¶Рµ РѕС‚РїСЂР°РІРёС‚СЊ РїРёСЃСЊРјРѕ РЅР° e-mail <a href="mailto:e-mail: someone@test.net">someone@test.net</a><br>СЃРѕ РІСЃРµРјРё
+					РІРѕРїСЂРѕСЃР°РјРё. РњС‹ Р’Р°Рј РѕР±СЏР·Р°С‚РµР»СЊРЅРѕ РѕС‚РІРµС‚РёРј.
 				</p>
 			</div>
 			<div class="contact_icons">

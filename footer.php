@@ -1,5 +1,5 @@
 <div id="footer">
 	<p>
-		Copyright &copy; <a href="mailto:andrii.vynnyk@gmail.com">Андрей Винник</a>. Все права защищены.
+		Copyright &copy; <a href="mailto:andrii.vynnyk@gmail.com">РђРЅРґСЂРµР№ Р’РёРЅРЅРёРє</a>. Р’СЃРµ РїСЂР°РІР° Р·Р°С‰РёС‰РµРЅС‹.
 	</p>
 </div>

@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Грузоперевозки - Макаренко А.Б.</title>
+<title>Р“СЂСѓР·РѕРїРµСЂРµРІРѕР·РєРё - РњР°РєР°СЂРµРЅРєРѕ Рђ.Р‘.</title>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -15,11 +15,11 @@
 		<?php include("common_title.php"); ?>
 		<!-- Content title -->
 		<div id="content_title">
-			<h3>Отзывы</h3>
+			<h3>РћС‚Р·С‹РІС‹</h3>
 		</div>
 		<!-- Content -->
 		<div id="content">
-			<p>Это содержимое</p>
+			<p>Р­С‚Рѕ СЃРѕРґРµСЂР¶РёРјРѕРµ</p>
 		</div>
 		<!-- Footer -->
 		<?php include("footer.php"); ?>

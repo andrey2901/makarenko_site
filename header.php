@@ -1,7 +1,7 @@
 <div id="header">
 	<div id="logo">
-		<p class="logo_large">Грузоперевозки</p>
-		<p class="logo_small">Макаренко А.Б.</p>
+		<p class="logo_large">Р“СЂСѓР·РѕРїРµСЂРµРІРѕР·РєРё</p>
+		<p class="logo_small">РњР°РєР°СЂРµРЅРєРѕ Рђ.Р‘.</p>
 	</div>
 	<div id="phones">
 		<ul>
