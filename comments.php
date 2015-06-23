@@ -25,11 +25,11 @@ ob_start ();
 		<!-- Content -->
 		<div id="content">
 			<?php
-$cmtx_page_id = "1"; // Название или номер для страницы, по Вашему усмотрению.
-$cmtx_reference = "Page One"; // Имя страницы, например commentset.php или какое-то другое.
-$cmtx_path = "../comments/"; // Имя папки в которую установлен скрипт.
-define ( 'IN_COMMENTICS', 'true' ); // Обычно не редактируется.
-require $cmtx_path . "includes/commentics.php"; // Путь к исполнительному файлу. Обычно не редактируется.
+$cmtx_page_id = "1";
+$cmtx_reference = "CommentsPage";
+$cmtx_path = "../comments/";
+define ( 'IN_COMMENTICS', 'true' );
+require $cmtx_path . "includes/commentics.php";
 ?>
 		</div>
 		<!-- Footer -->
