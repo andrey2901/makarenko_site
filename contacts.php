@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Грузоперевозки - Макаренко А.Б.</title>
-<link href="css/contacts_style.css" rel="stylesheet" type="text/css" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div id="wrapper">
@@ -19,20 +19,21 @@
 		</div>
 		<!-- Content -->
 		<div id="content">
-			<div class="contacts">
-				<p>Связаться с нами Вы можете по телефонам:</p>
-				<ul>
-					<li>+38(068) 555-55-55</li>
-					<li>+38(068) 555-55-55</li>
-				</ul>
-				<p>
-					Или же отправить письмо на e-mail <a href="mailto:e-mail: someone@test.net">someone@test.net</a><br>со всеми
-					вопросами. Мы Вам обязательно ответим.
-				</p>
-			</div>
-			<div class="contact_icons">
-				<embed src="images/envelope.svg" type="image/svg+xml" />
-				<embed src="images/phone.svg" type="image/svg+xml" />
+			<div id="contacts">
+				<div class="contacts">
+					<p>Связаться с нами Вы можете по телефону:</p>
+					<ul>
+						<li>+38(067) 763-34-92</li>
+					</ul>
+					<p>
+						Или же отправить письмо на e-mail <a href="mailto:e-mail: avr18105@hotmail.com">avr18105@hotmail.com</a><br>со
+						всеми вопросами. Мы Вам обязательно ответим.
+					</p>
+				</div>
+				<div class="icons">
+					<embed src="images/envelope.svg" type="image/svg+xml" />
+					<embed src="images/phone.svg" type="image/svg+xml" />
+				</div>
 			</div>
 		</div>
 		<!-- Footer -->

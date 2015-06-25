@@ -19,7 +19,7 @@
 		</div>
 		<!-- Content -->
 		<div id="content">
-			<div class="about">
+			<div id="about">
 				<img src="images/zil.jpg" alt="zil-130">
 				<p>
 					Здравствуйте!<br>Меня зовут Макаренко Андрей Борисович. Мой водительский стаж составляет более 30ти лет и сотни

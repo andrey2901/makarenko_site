@@ -19,23 +19,25 @@
 		</div>
 		<!-- Content -->
 		<div id="content">
-			<h4>Добрый день! Необходимо перевезти тяжелый груз? Мы с радостью Вам поможем!!!</h4>
-			<div class="images">
-				<div class="image">
-					<img src="images/stroy-musor.jpg" alt="Вывоз строительного мусора">
-					<h5>Вывоз строительного мусора</h5>
-				</div>
-				<div class="image">
-					<img src="images/stroymaterialy.jpg" alt="Перевозка строительных материалов">
-					<h5>Завоз строительных материалов</h5>
-				</div>
-				<div class="image">
-					<img src="images/pesok.jpg" alt="Перевозка песка, щебня, шлака">
-					<h5>Перевозка песка, щебня, шлака</h5>
-				</div>
-				<div class="image">
-					<img src="images/krupnogabaritniy_musor.jpg" alt="Вывоз старой мебели, хлама">
-					<h5>Завоз чернозема</h5>
+			<div id="main">
+				<h4>Добрый день! Необходимо перевезти тяжелый груз? Мы с радостью Вам поможем!!!</h4>
+				<div class="images">
+					<div class="image">
+						<img src="images/stroy-musor.jpg" alt="Вывоз строительного мусора">
+						<h5>Вывоз строительного мусора</h5>
+					</div>
+					<div class="image">
+						<img src="images/stroymaterialy.jpg" alt="Перевозка строительных материалов">
+						<h5>Завоз строительных материалов</h5>
+					</div>
+					<div class="image">
+						<img src="images/pesok.jpg" alt="Перевозка песка, щебня, шлака">
+						<h5>Перевозка песка, щебня, шлака</h5>
+					</div>
+					<div class="image">
+						<img src="images/krupnogabaritniy_musor.jpg" alt="Вывоз старой мебели, хлама">
+						<h5>Завоз чернозема</h5>
+					</div>
 				</div>
 			</div>
 		</div>

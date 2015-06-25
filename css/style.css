@@ -131,7 +131,11 @@
 	margin-right: 20px;
 }
 
-#content {
+#content p {
+	padding-left: 10px;
+}
+
+#main, #services, #prices, #about, #contacts, #comments {
 	background-color: #ece9e0;
 	border-bottom-left-radius: 10px;
 	border-bottom-right-radius: 10px;
@@ -141,21 +145,21 @@
 	width: 700px;
 }
 
-#content h4 {
+#main h4 {
 	text-align: center;
 }
 
-.images {
+#main .images {
 	position: relative;
 	text-align: center;
 }
 
-.image {
+#main .images .image {
 	display: inline-block;
 	position: relative;
 }
 
-img {
+#main .images .image img, #about img {
 	margin-left: 30px;
 	margin-right: 30px;
 	margin-top: 5px;
@@ -170,7 +174,7 @@ img {
 	box-shadow: 2px 2px 4px #888888;
 }
 
-h5 {
+#main .images .image h5 {
 	display: inline-block;
 	position: absolute;
 	top: 15px;
@@ -185,7 +189,8 @@ h5 {
 	box-shadow: 2px 2px 4px #427340;
 }
 
-/*h5:after {
+/*Add triangles to ribbons
+#main .images .image h5:after {
 	display: inline-block;
 	content: ' ';
 	position: absolute;
@@ -197,16 +202,22 @@ h5 {
 	border-style: solid;
 	border-color: #233607 #233607 transparent transparent;
 }*/
-#content p {
-	padding-left: 10px;
+#contacts .contacts {
+	float: left;
+	margin-left: 20px;
 }
 
-.about {
+#contacts .icons {
+	float: right;
+	margin-right: 20px;
+}
+
+#about {
 	display: inline;
 	float: left;
 }
 
-.about p {
+#about p {
 	padding-left: 0px;
 	float: right;
 	margin-right: 2%;

@@ -19,7 +19,9 @@
 		</div>
 		<!-- Content -->
 		<div id="content">
-			<p>Это содержимое</p>
+			<div id="prices">
+				<p>Это содержимое</p>
+			</div>
 		</div>
 		<!-- Footer -->
 		<?php include("footer.php"); ?>
